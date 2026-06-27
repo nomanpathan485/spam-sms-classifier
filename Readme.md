@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/NLP-Text%20Classification-00C7B7?style=for-the-badge" alt="NLP"/>
   <img src="https://img.shields.io/badge/Accuracy-97.76%25-success?style=for-the-badge" alt="Accuracy"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License"/>
 </p>
 
 <p align="center">
@@ -208,14 +207,6 @@ Contributions, issues, and feature requests are welcome!
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
----
-
-## 📜 License
-
-Distributed under the **MIT License**. See `LICENSE` for more information.
-
-> 📌 *Note: A `LICENSE` file is recommended. You can generate one via [choosealicense.com](https://choosealicense.com/) and add it to this repo.*
 
 ---
 
